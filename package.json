@@ -1,0 +1,21 @@
+{
+  "name": "mongodb-test",
+  "version": "1.0.0",
+  "description": "Node & MongoDB Connection Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "NodeJs",
+    "MongoDB",
+    "Express"
+  ],
+  "author": "Monzer Abdullaziz",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.10"
+  }
+}
